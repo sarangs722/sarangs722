@@ -1,80 +1,116 @@
-<h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
-<h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
-
-- ⚡ Skilled in **Java, JavaScript & Kotlin Programming Languages.**
-
-- 🔨 Personal development experience in **Android Development (Kotlin), Web Development (Full Stack, MERN Stack)**
-
-- 💻 500+ DSA Problems solved on <a href="https://leetcode.com/sarangs722/" target="_blank">Leetcode</a> & 300+ on <a href="https://auth.geeksforgeeks.org/user/sarangs722">GeeksForGeeks</a>
-
-- 👨‍💻 Check out my portfolio profile at <a href="https://sarangportfolio.netlify.app/" target="_blank">Sarang Portfolio</a>
-
-- 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
-
-- 🌱 I’m currently learning **Jetpack Compose (Android)**
-
-- 📫 You can reach me at **sarangs722@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarangs722" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarangs722" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarangs722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarangs722" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Sarang Srivastava — Backend &amp; Platform Engineering · Applied AI" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarangs722/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sarangs722@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="./Sarang_Srivastava_Resume_Two_Column.pdf">Resume</a> &nbsp;·&nbsp;
+  <a href="https://github.com/sarangs722?tab=repositories">Repositories</a>
+</p>
 
+I'm Sarang, a **Systems Engineer at Tata Consultancy Services** working in backend and platform engineering since November 2023. I build developer platforms, deployment automation, and applied AI systems that connect language models to real engineering workflows.
 
+My work spans **Python services, Kubernetes, CI/CD, identity and secrets management, and LLM agents**. Outside work, I build Android apps and practical tools for everyday workflows.
 
-## Check out some of my personal projects -
+## Engineering at work
 
-<div>
+**Tata Consultancy Services · Systems Engineer · November 2023–Present**
 
-#### <a href="https://github.com/sarangs722/QRCode-FacialRecog-Attendance-System" target="blank">QR + Facial Recognition Full stack application (Android + Web).</a> <br>
-  ###### Dynamically changes QR codes every 10 seconds to combat fraud.
+- **AI for platform operations:** Designed and deployed an MCP server exposing **60+ CI/CD and infrastructure operations** to a hosted LLM agent, enabling RAG-assisted builds and deployments through web and Slack. Built a Python/LangGraph SRE agent that maps services, infrastructure, and ownership into a validated knowledge graph, served with FastAPI on Kubernetes.
+- **Identity at scale:** Led an enterprise secrets platform's migration to **OpenID Connect**, updating authentication workflows and HashiCorp Vault integrations for **150+ applications handling 5M+ authentication requests per month**.
+- **Deployment automation:** Migrated Argo Workflows automation from shell scripts to Python for AWS and Kubernetes workflows supporting **3,000+ engineering teams**. Built a self-service platform for generating CI/CD pipeline configurations.
+- **Developer tooling:** Built a reusable CI and AI code-review toolkit for Java microservices, combining changed-line coverage, static analysis, and multi-agent review with findings verification, automated fixes, and prompt-injection safeguards.
 
-  <p float="left">
-  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" style="width: 100%;
-  max-width: 400px;" /> <br>
-  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/0a9e1456-2dc9-4015-a0fe-a71930cadfbc" alt="QRCode FacialRecog Project1" width=60% />
+## Projects
 
+Android apps, applied AI, developer tools, web applications, and network design.
 
-  
-#### <a href="https://github.com/sarangs722/portfolio-react" target="blank">Portfolio created in React.js</a>
-  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height= 500px />
-  
-#### <a href="https://github.com/sarangs722/Unscramble-Words-App---Kotlin" target="blank">Unscramble words android application built with Kotlin and Jetpack Compose.</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height= 500px />
-  
-#### <a href="https://github.com/sarangs722/Download-Manager-Core-Java-Swing" target="blank">Download Manager Desktop GUI Application in Core Java & Swing</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" style="width: 100%;
-  max-width: 400px;" /><
+### [WealthOS](https://github.com/sarangs722/WealthOS)
 
-#### <a href="https://github.com/sarangs722/Amusement-Park-Network-Design" target="blank">Amusement Park prototype Network Design in Cisco Packet Tracer</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png" style="width: 100%;
-  max-width: 400px;" />
-  
-  
-#### <a href="https://github.com/sarangs722/NewsApiWebApp" target="blank">News Api Web application</a>
-  ###### Using EJS as a template engine to provide dynamic functionality.
-  <img align="center" src="https://github.com/sarangs722/NewsApiWebApp/blob/main/newsapiwebappworking.gif" style="width: 100%;
-  max-width: 400px;" />
+An **offline-first Android personal wealth tracker** for investments, income, expenses, and net-worth planning. Includes financial projections, encrypted local storage, password-protected portable backups, and validated restore workflows.
 
-  
-</div>
+`Kotlin` `Jetpack Compose` `Room` `SQLCipher` `Android Keystore`
 
-<br>
-<br>
+### ShapeAlchemy
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangs722&show_icons=true&locale=en&layout=compact" alt="sarangs722" /></p>
+An **Android polygon-merge puzzle game built with Unity**. Swipe matching shapes on a 5 × 6 board to form higher-sided polygons, build chains, and plan around upcoming pieces. Includes procedural jewel graphics, animated merges, undo, a charged Blast mechanic, and persistent game state, with automated gameplay and rendering checks.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangs722&show_icons=true&locale=en" alt="sarangs722" /></p>
+`C#` `Unity` `Android` `uGUI` `Procedural graphics`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangs722&" alt="sarangs722" /></p>
+<sub>Source code is private.</sub>
+
+### Intelligent Document Retrieval Platform
+
+A **RAG application for multi-document search** with source citations, conversation memory, authentication, persistent chat history, and streaming responses. Built the ingestion pipeline from PDF parsing and chunking through embeddings and semantic indexing.
+
+`Python` `FastAPI` `PostgreSQL` `Vector search` `LLM APIs` `React` `Docker`
+
+<sub>Project described in my resume; implementation is not yet published in the public repository.</sub>
+
+### [ApplyRecall](https://github.com/sarangs722/apply-recall-job-forms)
+
+A **Chrome extension and local backend** that fill known job-application details and remember explicitly approved answers. Uses deterministic field matching, scoped answer reuse, and revocable extension pairing, with the user reviewing and submitting each application.
+
+`Python` `FastAPI` `SQLite` `JavaScript` `Chrome Extensions / Manifest V3`
+
+### [QR Code & Facial Recognition Attendance System](https://github.com/sarangs722/QRCode-FacialRecog-Attendance-System)
+
+An **Android app and web backend** combining FaceNet facial recognition with QR codes that refresh every **10 seconds** to help deter attendance fraud.
+
+`Kotlin` `Android` `Node.js` `Express` `MongoDB` `FaceNet`
+
+### [OutreachKit](https://github.com/sarangs722/outreachkit-personalized-email)
+
+A **Python CLI for personalized email outreach** using CSV contacts, templates, and the Gmail API. Supports resume attachments, dry-run previews, per-message confirmation, and a local send history to skip duplicate outreach.
+
+`Python` `Gmail API` `OAuth 2.0` `CLI`
+
+### More projects
+
+| Project | What I built |
+| :--- | :--- |
+| [Unscramble Words](https://github.com/sarangs722/Unscramble-Words-App---Kotlin) | An Android word-unscrambling game with a native declarative interface. **Kotlin · Jetpack Compose** |
+| [Download Manager](https://github.com/sarangs722/Download-Manager-Core-Java-Swing) | A desktop GUI for downloading files from URLs, using HTTP connections to retrieve files. **Java · Swing · HttpURLConnection** |
+| [News API Web App](https://github.com/sarangs722/NewsApiWebApp) | A news application using API data and server-rendered EJS templates. **Node.js · Express · EJS** |
+| [Newsletter Signup](https://github.com/sarangs722/NewsLetterSignupProject) | A newsletter signup flow with a web form, backend API integration, and success/failure pages. **Node.js · Express · HTML · CSS** |
+| [Amusement Park Network Design](https://github.com/sarangs722/Amusement-Park-Network-Design) | A Cisco internship network prototype with five network groups, subnetting, DHCP, DNS, web, email, and FTP services. **Cisco Packet Tracer · Networking** |
+| [React Portfolio](https://github.com/sarangs722/portfolio-react) | My React-based personal portfolio website. **React · JavaScript** |
+| [Original Portfolio](https://github.com/sarangs722/portfoliosite) | My first personal portfolio website, hosted with GitHub Pages. **HTML · CSS · GitHub Pages** |
+
+### Algorithms & practice
+
+[LeetCode solutions](https://github.com/sarangs722/LeetCode) · [6 Companies / 30 Days](https://github.com/sarangs722/6Companies30days) — Java problem-solving repositories.
+
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, Java, Go, SQL, Bash; Kotlin, JavaScript, and C# for personal projects |
+| Backend & systems | FastAPI, REST APIs, microservices, distributed systems, authentication and authorization |
+| Cloud & platform | Kubernetes, AWS / EKS, Docker, CI/CD, GitOps, Argo Workflows, HashiCorp Vault, OIDC |
+| Applied AI | MCP, LangGraph, tool calling, agent memory and state, RAG, embeddings, vector databases, LLM evaluation, observability |
+| Mobile & games | Android, Jetpack Compose, Unity, uGUI |
+| Web & data | React, Node.js, Express, EJS, MongoDB, PostgreSQL, SQLite |
+| Developer tools | Git, Claude Code, OpenAI Codex |
+
+## GitHub contributions
+
+<a href="https://github.com/sarangs722?tab=overview">
+  <img src="https://ghchart.rshah.org/0f766e/sarangs722" alt="Sarang's GitHub contribution calendar for the past year" width="100%" />
+</a>
+
+<sub>Live contribution calendar, served by <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart API</a>. Includes GitHub contributions such as commits, issues, and pull requests. My professional work is described above; this calendar reflects activity visible on my GitHub profile.</sub>
+
+[Browse my repositories](https://github.com/sarangs722?tab=repositories) · [View contribution activity](https://github.com/sarangs722?tab=overview)
+
+## Beyond the day job
+
+- **900+ DSA problems solved** across [LeetCode](https://leetcode.com/sarangs722/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sarangs722/practice/).
+- **Global Rank 1654**, TCS CodeVita Season 10; **Star of the Month** at TCS.
+- **B.Tech (Honours), Information Technology**, ABES Engineering College, 2019–2023 · **8.7/10 CGPA**.
+- Completed Anthropic courses in Claude Code, MCP, and the Claude API, plus Cisco's CCNA: Introduction to Networks.
+
+---
+
+Interested in backend systems, developer platforms, or applied AI? [Let's connect on LinkedIn](https://www.linkedin.com/in/sarangs722/) or [send me an email](mailto:sarangs722@gmail.com).
